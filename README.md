@@ -1,8 +1,10 @@
 # Car-Price-Predictor-using-Linear-Regression
 Data I have used is Quikr Car Data 
-Before i start working on this, i have cleaned this data because
+Before i start working on this, 
 
+i have cleaned this data because
 Data Quality Issue
+
 names are pretty inconsistent
 names have company names attached to it
 some names are spam like 'Maruti Ertiga showroom condition with' and 'Well mentained Tata Sumo'
